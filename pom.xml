@@ -12,7 +12,7 @@
 	<artifactId>authuser</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>authuser</name>
-	<description>AuthUser Microservice </description>
+	<description>AuthUser Microservice</description>
 	<properties>
 		<java.version>11</java.version>
 		<postgresql-version>42.3.0</postgresql-version>
